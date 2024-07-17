@@ -1,0 +1,14 @@
+10
+low
+low
+undetermined
+high
+low
+low
+high
+undetermined
+medium
+medium
+
+Validation Error:  17.50%
+K-Value: 7
